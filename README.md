@@ -17,3 +17,6 @@ Back-end part
 
 #### SqlClient 4.8.2
 * [Установить](https://metanit.com/sharp/adonetcore/2.2.php)
+
+### Логическая структура БД
+![Логическая структура БД](https://user-images.githubusercontent.com/90147314/229092431-91055434-fb11-45a9-b535-99f18a80dfd9.PNG)
